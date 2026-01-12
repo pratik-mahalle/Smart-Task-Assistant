@@ -2,7 +2,7 @@
 
 > A beginner-friendly demo showcasing A2UI framework concepts with a natural language task manager powered by Claude.
 
-![Smart Task Assistant Demo](./docs/demo.gif)
+![Smart Task Assistant Demo]
 
 ## 📋 What We're Building
 
