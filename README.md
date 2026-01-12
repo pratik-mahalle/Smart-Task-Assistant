@@ -215,14 +215,6 @@ npm run dev
 # [Agent] Claude response: { ... }
 ```
 
-### Test the API Directly
-
-```bash
-curl -X POST http://localhost:3000/api/agent \
-  -H "Content-Type: application/json" \
-  -d '{"message": "add test task", "currentState": {"tasks": []}}'
-```
-
 ---
 
 ## 📚 Learn More
@@ -240,7 +232,6 @@ This is a demo project, but improvements are welcome! Ideas:
 - Better error messages
 - More example commands
 - Accessibility improvements
-- Mobile responsiveness tweaks
 
 ---
 
@@ -250,4 +241,4 @@ MIT License - feel free to use this as a starting point for your own projects!
 
 ---
 
-Built with ❤️ by ThatDevOps
+Built with ❤️ by ThatDevOpsGuy
